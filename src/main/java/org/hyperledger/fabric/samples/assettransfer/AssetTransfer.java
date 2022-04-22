@@ -1,19 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@lavarthan 
-CS4262-Distributed-Systems
-/
-blockchain-assignment-Meenu1997
-Public
- /*
- * SPDX-License-Identifier: Apache-2.0
- */
-
 package org.hyperledger.fabric.samples.assettransfer;
 
 import java.util.ArrayList;
